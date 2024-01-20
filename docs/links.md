@@ -1,7 +1,7 @@
 # More Information
 
 - [Home](/)
-- [local_docs](docs/readme.md)
+- [local docs](readme.md)
 - [Res-Edge Whitepaper](/?doc=Res-Edge-Overview)
 - [ Sample Page 1](/?doc=page1)
 - [ Sample Page 2](/?doc=page2)
